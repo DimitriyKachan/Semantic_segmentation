@@ -1,0 +1,12 @@
+{
+    "BATCH_SIZE" : 48,
+    "GAUSSIAN_NOISE" : 0.1,
+    "UPSAMPLE_MODE" : "SIMPLE",
+    "NET_SCALING_val" : 1,
+    "IMG_SCALING_val" : 3,
+    "VALID_IMG_COUNT" : 500,
+    "MAX_TRAIN_STEPS" : 20,
+    "MAX_TRAIN_EPOCHS" : 20,
+    "AUGMENT_BRIGHTNESS" : 0,
+    "WEIGHT_DECAY" : 1e-5
+}

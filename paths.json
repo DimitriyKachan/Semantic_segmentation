@@ -1,0 +1,6 @@
+{
+    "train_image_dir":"data/train_v2",
+    "test_image_dir":"data/test_v2",
+    "labels_dir":"data/train_ship_segmentations_v2.csv",
+    "params":"parameters.json"
+}
