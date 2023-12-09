@@ -33,7 +33,7 @@ Create a folder named data within the repository directory.
 
 Download and place the Airbus Ship Detection Challenge dataset inside the data folder.
 
-Ensure you have Python 3 and necessary libraries like TensorFlow and OpenCV installed.
+Ensure you have Python 3 and necessary libraries installed. You can either install them according to requirements.txt, or import it through anaconda backup called UNET_env.yaml
 
 Run the main.ipynb notebook for a complete demonstration of the entire workflow.
 
