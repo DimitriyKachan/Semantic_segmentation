@@ -14,11 +14,17 @@ Achieves high accuracy in ship detection on the Airbus Ship Detection Challenge 
 Offers flexibility to adjust hyperparameters through a dedicated parameters.json file.
 
 Includes various files for different functionalities:
+
 -eda.ipynb: Exploratory data analysis of the dataset.
+
 -data_processing.py: Data processing and augmentation pipeline.
+
 -model_create.py: U-Net model architecture definition.
+
 -model_training.py: Training functionality with customizable parameters.
+
 -paths.json: Defines paths to dataset and results.
+
 -main.ipynb: Main notebook showcasing the full workflow.
 
 Saves trained model weights for later use or evaluation.
